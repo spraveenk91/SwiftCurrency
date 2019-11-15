@@ -1,8 +1,8 @@
 import Foundation
 
 public struct Amount {
-    let price: String
-    let currencyType: CurrencyType
+    public var price: String
+    public var currencyType: CurrencyType
 
     private var formatter: NumberFormatter {
         let formatter = NumberFormatter.currencyFormatter
@@ -11,7 +11,7 @@ public struct Amount {
         return formatter
     }
 
-    public init(price: String, currencyType: CurrencyType) {
+    public init(price: String, currencyType: CurrencyType = .euro) {
         self.price = price
         self.currencyType = currencyType
     }
