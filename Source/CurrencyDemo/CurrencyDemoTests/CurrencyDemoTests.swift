@@ -1,11 +1,3 @@
-//
-//  CurrencyDemoTests.swift
-//  CurrencyDemoTests
-//
-//  Created by CW1497 on 15/11/2019.
-//  Copyright © 2019 Manish Rathi. All rights reserved.
-//
-
 import XCTest
 @testable import CurrencyDemo
 
