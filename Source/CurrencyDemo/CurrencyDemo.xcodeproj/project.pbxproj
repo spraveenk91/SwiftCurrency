@@ -17,6 +17,7 @@
 		7ABD7BC3237EDFF200408DF4 /* Amount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD7BC2237EDFF200408DF4 /* Amount.swift */; };
 		7ABD7BC5237EE00B00408DF4 /* CurrencyType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD7BC4237EE00B00408DF4 /* CurrencyType.swift */; };
 		7ABD7BC7237EE2B800408DF4 /* LocaleExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD7BC6237EE2B800408DF4 /* LocaleExtensions.swift */; };
+		7ABD7BC9237EEBBF00408DF4 /* NumberFormatterExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7ABD7BC8237EEBBF00408DF4 /* NumberFormatterExtensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		7ABD7BC2237EDFF200408DF4 /* Amount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amount.swift; sourceTree = "<group>"; };
 		7ABD7BC4237EE00B00408DF4 /* CurrencyType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrencyType.swift; sourceTree = "<group>"; };
 		7ABD7BC6237EE2B800408DF4 /* LocaleExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocaleExtensions.swift; sourceTree = "<group>"; };
+		7ABD7BC8237EEBBF00408DF4 /* NumberFormatterExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NumberFormatterExtensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				7ABD7BC4237EE00B00408DF4 /* CurrencyType.swift */,
 				7ABD7BC2237EDFF200408DF4 /* Amount.swift */,
 				7ABD7BC6237EE2B800408DF4 /* LocaleExtensions.swift */,
+				7ABD7BC8237EEBBF00408DF4 /* NumberFormatterExtensions.swift */,
 			);
 			path = Reusable;
 			sourceTree = "<group>";
@@ -221,6 +224,7 @@
 				7ABD7BC5237EE00B00408DF4 /* CurrencyType.swift in Sources */,
 				7ABD7BA4237EDF0800408DF4 /* ViewController.swift in Sources */,
 				7ABD7BA0237EDF0800408DF4 /* AppDelegate.swift in Sources */,
+				7ABD7BC9237EEBBF00408DF4 /* NumberFormatterExtensions.swift in Sources */,
 				7ABD7BA2237EDF0800408DF4 /* SceneDelegate.swift in Sources */,
 				7ABD7BC3237EDFF200408DF4 /* Amount.swift in Sources */,
 			);
