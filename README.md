@@ -1,2 +1,4 @@
 # SwiftCurrency
-A swift currency playground app.
+----
+
+A swift currency application.
